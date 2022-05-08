@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/10.jpg?t=1652024921" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="0.51" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" skin="basic" />
+    <control dragSpeed="0.42" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" responsiveBaseWidth="600" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" />
+  </settings>
+  <hotspots />
+  <images rows="1" highresWidth="3000" highresHeight="2000">
+    <image src="images/10.jpg?t=1652024921">
+      <highres src="images/highres/10.jpg?t=1652024921" />
+    </image>
+    <image src="images/11.jpg?t=1652024921">
+      <highres src="images/highres/11.jpg?t=1652024921" />
+    </image>
+    <image src="images/12.jpg?t=1652024921">
+      <highres src="images/highres/12.jpg?t=1652024921" />
+    </image>
+    <image src="images/13.jpg?t=1652024921">
+      <highres src="images/highres/13.jpg?t=1652024921" />
+    </image>
+    <image src="images/14.jpg?t=1652024921">
+      <highres src="images/highres/14.jpg?t=1652024921" />
+    </image>
+    <image src="images/15.jpg?t=1652024921">
+      <highres src="images/highres/15.jpg?t=1652024921" />
+    </image>
+    <image src="images/16.jpg?t=1652024921">
+      <highres src="images/highres/16.jpg?t=1652024921" />
+    </image>
+    <image src="images/17.jpg?t=1652024921">
+      <highres src="images/highres/17.jpg?t=1652024921" />
+    </image>
+    <image src="images/18.jpg?t=1652024921">
+      <highres src="images/highres/18.jpg?t=1652024921" />
+    </image>
+    <image src="images/19.jpg?t=1652024921">
+      <highres src="images/highres/19.jpg?t=1652024921" />
+    </image>
+    <image src="images/110.jpg?t=1652024921">
+      <highres src="images/highres/110.jpg?t=1652024921" />
+    </image>
+    <image src="images/111.jpg?t=1652024921">
+      <highres src="images/highres/111.jpg?t=1652024921" />
+    </image>
+    <image src="images/112.jpg?t=1652024921">
+      <highres src="images/highres/112.jpg?t=1652024921" />
+    </image>
+    <image src="images/113.jpg?t=1652024921">
+      <highres src="images/highres/113.jpg?t=1652024921" />
+    </image>
+    <image src="images/114.jpg?t=1652024921">
+      <highres src="images/highres/114.jpg?t=1652024921" />
+    </image>
+    <image src="images/115.jpg?t=1652024921">
+      <highres src="images/highres/115.jpg?t=1652024921" />
+    </image>
+    <image src="images/116.jpg?t=1652024921">
+      <highres src="images/highres/116.jpg?t=1652024921" />
+    </image>
+    <image src="images/117.jpg?t=1652024921">
+      <highres src="images/highres/117.jpg?t=1652024921" />
+    </image>
+    <image src="images/118.jpg?t=1652024921">
+      <highres src="images/highres/118.jpg?t=1652024921" />
+    </image>
+    <image src="images/119.jpg?t=1652024921">
+      <highres src="images/highres/119.jpg?t=1652024921" />
+    </image>
+    <image src="images/120.jpg?t=1652024921">
+      <highres src="images/highres/120.jpg?t=1652024921" />
+    </image>
+    <image src="images/121.jpg?t=1652024921">
+      <highres src="images/highres/121.jpg?t=1652024921" />
+    </image>
+    <image src="images/122.jpg?t=1652024921">
+      <highres src="images/highres/122.jpg?t=1652024921" />
+    </image>
+    <image src="images/123.jpg?t=1652024921">
+      <highres src="images/highres/123.jpg?t=1652024921" />
+    </image>
+    <image src="images/124.jpg?t=1652024921">
+      <highres src="images/highres/124.jpg?t=1652024921" />
+    </image>
+    <image src="images/125.jpg?t=1652024921">
+      <highres src="images/highres/125.jpg?t=1652024921" />
+    </image>
+    <image src="images/126.jpg?t=1652024921">
+      <highres src="images/highres/126.jpg?t=1652024921" />
+    </image>
+    <image src="images/127.jpg?t=1652024921">
+      <highres src="images/highres/127.jpg?t=1652024921" />
+    </image>
+    <image src="images/128.jpg?t=1652024921">
+      <highres src="images/highres/128.jpg?t=1652024921" />
+    </image>
+    <image src="images/129.jpg?t=1652024921">
+      <highres src="images/highres/129.jpg?t=1652024921" />
+    </image>
+    <image src="images/130.jpg?t=1652024921">
+      <highres src="images/highres/130.jpg?t=1652024921" />
+    </image>
+    <image src="images/131.jpg?t=1652024921">
+      <highres src="images/highres/131.jpg?t=1652024921" />
+    </image>
+    <image src="images/132.jpg?t=1652024921">
+      <highres src="images/highres/132.jpg?t=1652024921" />
+    </image>
+    <image src="images/133.jpg?t=1652024921">
+      <highres src="images/highres/133.jpg?t=1652024921" />
+    </image>
+    <image src="images/134.jpg?t=1652024921">
+      <highres src="images/highres/134.jpg?t=1652024921" />
+    </image>
+    <image src="images/135.jpg?t=1652024921">
+      <highres src="images/highres/135.jpg?t=1652024921" />
+    </image>
+    <image src="images/136.jpg?t=1652024921">
+      <highres src="images/highres/136.jpg?t=1652024921" />
+    </image>
+    <image src="images/137.jpg?t=1652024921">
+      <highres src="images/highres/137.jpg?t=1652024921" />
+    </image>
+    <image src="images/138.jpg?t=1652024921">
+      <highres src="images/highres/138.jpg?t=1652024921" />
+    </image>
+    <image src="images/139.jpg?t=1652024921">
+      <highres src="images/highres/139.jpg?t=1652024921" />
+    </image>
+    <image src="images/140.jpg?t=1652024921">
+      <highres src="images/highres/140.jpg?t=1652024921" />
+    </image>
+    <image src="images/141.jpg?t=1652024921">
+      <highres src="images/highres/141.jpg?t=1652024921" />
+    </image>
+    <image src="images/142.jpg?t=1652024921">
+      <highres src="images/highres/142.jpg?t=1652024921" />
+    </image>
+    <image src="images/143.jpg?t=1652024921">
+      <highres src="images/highres/143.jpg?t=1652024921" />
+    </image>
+    <image src="images/144.jpg?t=1652024921">
+      <highres src="images/highres/144.jpg?t=1652024921" />
+    </image>
+    <image src="images/145.jpg?t=1652024921">
+      <highres src="images/highres/145.jpg?t=1652024921" />
+    </image>
+    <image src="images/146.jpg?t=1652024921">
+      <highres src="images/highres/146.jpg?t=1652024921" />
+    </image>
+    <image src="images/147.jpg?t=1652024921">
+      <highres src="images/highres/147.jpg?t=1652024921" />
+    </image>
+    <image src="images/148.jpg?t=1652024921">
+      <highres src="images/highres/148.jpg?t=1652024921" />
+    </image>
+    <image src="images/149.jpg?t=1652024921">
+      <highres src="images/highres/149.jpg?t=1652024921" />
+    </image>
+    <image src="images/150.jpg?t=1652024921">
+      <highres src="images/highres/150.jpg?t=1652024921" />
+    </image>
+    <image src="images/151.jpg?t=1652024921">
+      <highres src="images/highres/151.jpg?t=1652024921" />
+    </image>
+    <image src="images/152.jpg?t=1652024921">
+      <highres src="images/highres/152.jpg?t=1652024921" />
+    </image>
+    <image src="images/153.jpg?t=1652024921">
+      <highres src="images/highres/153.jpg?t=1652024921" />
+    </image>
+    <image src="images/154.jpg?t=1652024921">
+      <highres src="images/highres/154.jpg?t=1652024921" />
+    </image>
+    <image src="images/155.jpg?t=1652024921">
+      <highres src="images/highres/155.jpg?t=1652024921" />
+    </image>
+    <image src="images/156.jpg?t=1652024921">
+      <highres src="images/highres/156.jpg?t=1652024921" />
+    </image>
+    <image src="images/157.jpg?t=1652024921">
+      <highres src="images/highres/157.jpg?t=1652024921" />
+    </image>
+    <image src="images/158.jpg?t=1652024921">
+      <highres src="images/highres/158.jpg?t=1652024921" />
+    </image>
+    <image src="images/159.jpg?t=1652024921">
+      <highres src="images/highres/159.jpg?t=1652024921" />
+    </image>
+    <image src="images/160.jpg?t=1652024921">
+      <highres src="images/highres/160.jpg?t=1652024921" />
+    </image>
+    <image src="images/161.jpg?t=1652024921">
+      <highres src="images/highres/161.jpg?t=1652024921" />
+    </image>
+    <image src="images/162.jpg?t=1652024921">
+      <highres src="images/highres/162.jpg?t=1652024921" />
+    </image>
+    <image src="images/163.jpg?t=1652024921">
+      <highres src="images/highres/163.jpg?t=1652024921" />
+    </image>
+    <image src="images/164.jpg?t=1652024921">
+      <highres src="images/highres/164.jpg?t=1652024921" />
+    </image>
+    <image src="images/165.jpg?t=1652024921">
+      <highres src="images/highres/165.jpg?t=1652024921" />
+    </image>
+    <image src="images/166.jpg?t=1652024921">
+      <highres src="images/highres/166.jpg?t=1652024921" />
+    </image>
+    <image src="images/167.jpg?t=1652024921">
+      <highres src="images/highres/167.jpg?t=1652024921" />
+    </image>
+    <image src="images/168.jpg?t=1652024921">
+      <highres src="images/highres/168.jpg?t=1652024921" />
+    </image>
+    <image src="images/169.jpg?t=1652024921">
+      <highres src="images/highres/169.jpg?t=1652024921" />
+    </image>
+    <image src="images/170.jpg?t=1652024921">
+      <highres src="images/highres/170.jpg?t=1652024921" />
+    </image>
+    <image src="images/171.jpg?t=1652024921">
+      <highres src="images/highres/171.jpg?t=1652024921" />
+    </image>
+    <image src="images/172.jpg?t=1652024921">
+      <highres src="images/highres/172.jpg?t=1652024921" />
+    </image>
+    <image src="images/173.jpg?t=1652024921">
+      <highres src="images/highres/173.jpg?t=1652024921" />
+    </image>
+    <image src="images/174.jpg?t=1652024921">
+      <highres src="images/highres/174.jpg?t=1652024921" />
+    </image>
+    <image src="images/175.jpg?t=1652024921">
+      <highres src="images/highres/175.jpg?t=1652024921" />
+    </image>
+    <image src="images/176.jpg?t=1652024921">
+      <highres src="images/highres/176.jpg?t=1652024921" />
+    </image>
+    <image src="images/177.jpg?t=1652024921">
+      <highres src="images/highres/177.jpg?t=1652024921" />
+    </image>
+    <image src="images/178.jpg?t=1652024921">
+      <highres src="images/highres/178.jpg?t=1652024921" />
+    </image>
+    <image src="images/179.jpg?t=1652024921">
+      <highres src="images/highres/179.jpg?t=1652024921" />
+    </image>
+    <image src="images/180.jpg?t=1652024921">
+      <highres src="images/highres/180.jpg?t=1652024921" />
+    </image>
+    <image src="images/181.jpg?t=1652024921">
+      <highres src="images/highres/181.jpg?t=1652024921" />
+    </image>
+    <image src="images/182.jpg?t=1652024921">
+      <highres src="images/highres/182.jpg?t=1652024921" />
+    </image>
+    <image src="images/183.jpg?t=1652024921">
+      <highres src="images/highres/183.jpg?t=1652024921" />
+    </image>
+    <image src="images/184.jpg?t=1652024921">
+      <highres src="images/highres/184.jpg?t=1652024921" />
+    </image>
+    <image src="images/185.jpg?t=1652024921">
+      <highres src="images/highres/185.jpg?t=1652024921" />
+    </image>
+    <image src="images/186.jpg?t=1652024921">
+      <highres src="images/highres/186.jpg?t=1652024921" />
+    </image>
+    <image src="images/187.jpg?t=1652024921">
+      <highres src="images/highres/187.jpg?t=1652024921" />
+    </image>
+    <image src="images/188.jpg?t=1652024921">
+      <highres src="images/highres/188.jpg?t=1652024921" />
+    </image>
+    <image src="images/189.jpg?t=1652024921">
+      <highres src="images/highres/189.jpg?t=1652024921" />
+    </image>
+    <image src="images/190.jpg?t=1652024921">
+      <highres src="images/highres/190.jpg?t=1652024921" />
+    </image>
+    <image src="images/191.jpg?t=1652024921">
+      <highres src="images/highres/191.jpg?t=1652024921" />
+    </image>
+    <image src="images/192.jpg?t=1652024921">
+      <highres src="images/highres/192.jpg?t=1652024921" />
+    </image>
+    <image src="images/193.jpg?t=1652024921">
+      <highres src="images/highres/193.jpg?t=1652024921" />
+    </image>
+    <image src="images/194.jpg?t=1652024921">
+      <highres src="images/highres/194.jpg?t=1652024921" />
+    </image>
+    <image src="images/195.jpg?t=1652024921">
+      <highres src="images/highres/195.jpg?t=1652024921" />
+    </image>
+    <image src="images/196.jpg?t=1652024921">
+      <highres src="images/highres/196.jpg?t=1652024921" />
+    </image>
+    <image src="images/197.jpg?t=1652024921">
+      <highres src="images/highres/197.jpg?t=1652024921" />
+    </image>
+    <image src="images/198.jpg?t=1652024921">
+      <highres src="images/highres/198.jpg?t=1652024921" />
+    </image>
+    <image src="images/199.jpg?t=1652024921">
+      <highres src="images/highres/199.jpg?t=1652024921" />
+    </image>
+    <image src="images/1100.jpg?t=1652024921">
+      <highres src="images/highres/1100.jpg?t=1652024921" />
+    </image>
+    <image src="images/1101.jpg?t=1652024921">
+      <highres src="images/highres/1101.jpg?t=1652024921" />
+    </image>
+    <image src="images/1102.jpg?t=1652024921">
+      <highres src="images/highres/1102.jpg?t=1652024921" />
+    </image>
+    <image src="images/1103.jpg?t=1652024921">
+      <highres src="images/highres/1103.jpg?t=1652024921" />
+    </image>
+    <image src="images/1104.jpg?t=1652024921">
+      <highres src="images/highres/1104.jpg?t=1652024921" />
+    </image>
+    <image src="images/1105.jpg?t=1652024921">
+      <highres src="images/highres/1105.jpg?t=1652024921" />
+    </image>
+    <image src="images/1106.jpg?t=1652024921">
+      <highres src="images/highres/1106.jpg?t=1652024921" />
+    </image>
+    <image src="images/1107.jpg?t=1652024921">
+      <highres src="images/highres/1107.jpg?t=1652024921" />
+    </image>
+  </images>
+</config>
